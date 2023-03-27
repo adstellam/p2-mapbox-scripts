@@ -1,0 +1,37 @@
+{ 
+    "type": "FeatureCollection",
+    "features": [
+        {   
+            "type": "Feature",
+            "properties": {
+                "machine_id": "11",
+                "t_start": 100000000,
+                "t_end": 1000002000
+            },
+            "geometry": {
+                "coordinates": [
+                    [-121.654813, 36.630335],
+                    [-121.651750, 36.629113],
+
+                ],
+                "type": "LineString"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "machine_id": "11",
+                "t_start": 100003000,
+                "t_end": 100004100
+            },
+            "geometry": {
+                "coordinates": [
+                    [-121.654813, 36.630335],
+                    [-121.651750, 36.629113],
+
+                ],
+                "type": "LineString"
+            }
+        }
+    ]
+}
